@@ -1,6 +1,8 @@
 # Google Forms Custom Layout Example
 
-##Credits : [github/heaversm](https://github.com/heaversm/google-custom-form)
+## Credits : [github/heaversm](https://github.com/heaversm/google-custom-form)
+
+### View html form on [html form link](https://theamanbhargava.github.io/Google-Forms-Custom-Layout/) 
 
 ### View form data on [google sheets link](https://docs.google.com/spreadsheets/d/19ZH_MD-WWjce_ueR4SNQAl-JLZcnX_NwwykZJBOSP_Q/edit?usp=sharing)
 
